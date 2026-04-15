@@ -1,9 +1,6 @@
-# 📊 Marketing Campaign Performance Analysis | Data Analytics Project
+# Marketing Campaign Performance Analysis | Data Analytics Project
 
-![Python](https://img.shields.io/badge/Python-EDA-blue)
-![Statistics](https://img.shields.io/badge/Statistics-Hypothesis%20Testing-green)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ---
 # 📊 Marketing Dashboard Preview
 
